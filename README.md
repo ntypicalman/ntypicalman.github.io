@@ -1,0 +1,1 @@
+# ntypicalman.github.io

@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page!
 
-You can use the [editor on GitHub](https://github.com/ntypicalman/ntypicalman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Я Марк, занимаюсь разработкой и программированием на python и Lua
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Связь со Мной
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Почта - mark107mp@gmail.com
+Дискорд - 𝓜𝓪𝓻𝓴 ♪#6932
 
 ```markdown
 Syntax highlighted code block
